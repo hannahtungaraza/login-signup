@@ -1,0 +1,5 @@
+I created this program in a matter of hours due to prior commitments over the bank holiday wekeend. I wanted to use PDO in the program as it is something we discussed in our initial talk as a new and more secure way to set up databases. 
+
+I am aware thatthe passwords are NOT HASHED when being stored, i wanted to use the function but didn't have enough time to fix the erorrs i got. But I see this as a learning curve and will dig deeper on how to use the function in PDO. 
+
+Thanks!
